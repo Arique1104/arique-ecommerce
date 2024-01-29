@@ -12,6 +12,8 @@ Feel free to walk through my technical reviews as I iterate over them what I'm l
 
 - `style-nav-bar-n-logo` within the [style-nav-bar-n-logo branch.](https://github.com/Arique1104/arique-ecommerce/pull/3)
 
+- `firebase` within the [firebase branch.](https://github.com/Arique1104/arique-ecommerce/pull/4)
+
 ## About the Author
 My name is Arique Furia Aguilar pronouns they/them and I am an organizer turned software engineer.
 
