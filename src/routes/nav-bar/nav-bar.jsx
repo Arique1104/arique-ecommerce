@@ -1,16 +1,19 @@
 import {Fragment} from 'react'
 import {Outlet, Link } from 'react-router-dom'
+import { ReactComponent as CrwnLogo } from '../../assets/crown.svg'
+import '../nav-bar/nav-bar.styles.scss'
+
 const NavBar = () => {
     return (
         <Fragment>
 
            <div className="nav-bar">
             <Link className='logo-container' to='/'>
-            <div>Logo</div>
+             <CrwnLogo className='logo'/>
             </Link>
             <div className='nav-links-container'>
                 <Link className='nav-link' to='/shop'>
-                    Shop
+                    SHOP
                 </Link>
             </div>
             </div> 
