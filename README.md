@@ -1,4 +1,22 @@
-# Getting Started with Create React App
+# Arique's E-Commerce
+
+Hello and welcome!  I am creating an e-commerce store within Javascript/React and full Authentication with Firebase Databse Storage, sprinkled with some Stripe-Integration, which bought the fin-tech company I worked at for a bit called TaxJar.
+
+As a Backend Ruby Developer, it's amazing to be able to code in Javascript, but I'm still learning a lot!
+
+Feel free to walk through my technical reviews as I iterate over them what I'm learning about Javascript.
+
+- `fonts` within the [fonts branch.](https://github.com/Arique1104/arique-ecommerce/pull/1)
+
+- `react-router` within the [react-router branch.](https://github.com/Arique1104/arique-ecommerce/pull/2)
+
+
+
+
+
+
+
+## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
