@@ -10,11 +10,22 @@ Feel free to walk through my technical reviews as I iterate over them what I'm l
 
 - `react-router` within the [react-router branch.](https://github.com/Arique1104/arique-ecommerce/pull/2)
 
+- `style-nav-bar-n-logo` within the [style-nav-bar-n-logo branch.](https://github.com/Arique1104/arique-ecommerce/pull/3)
 
+## About the Author
+My name is Arique Furia Aguilar pronouns they/them and I am an organizer turned software engineer.
 
+I recently served as the Community Manager for MoveOn’s product Spoke. An open-source product that delivers access to texting-technology at a jaw dropping penny-per-text.
 
+Spoke is written in Javascript/Nodejs.  My primary contributions included integration requirements for Azure, AWS, Heroku, Twilio, and VAN.  I hosted weekly Hacknights and eventually grew in establishing creative sprint cycles for volunteer dev teams I recruited and trained.
 
+When the utility of our product dropped significantly, I was able to identify that it was due to limited understanding of the implications or standards for sending texts - also known as 10DLC regulation.  
 
+As my final contribution to Spoke, I was able to coordinate efforts towards identifying an new home that would support smaller organizations in their 10DLC Regulation Compliance journey - effectively securing the accessibility of this tool for many campaigns to come. 
+
+I'm interested in staying within Progressive Tech and am currently seeking contracts with research teams looking to protect voters rights and access to the poles.
+
+[Schedule a meeting with me here.](https://calendly.com/mama-furia)
 
 ## Getting Started with Create React App
 
