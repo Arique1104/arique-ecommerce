@@ -2,6 +2,7 @@ import './components/directory/directory.styles.scss'
 import {Routes, Route, Outlet } from 'react-router-dom'
 import Home from './routes/home/home'
 import NavBar from './routes/nav-bar/nav-bar'
+import Authentication from './routes/authentication/authentication'
 
 
 const Shop = () => {
@@ -14,6 +15,7 @@ const App = () => {
     <Route path='/' element={<NavBar/>}>
       <Route index element={<Home/>}/>
       <Route path='shop' element={<Shop/>}/>
+      <Route path='auth' element={<Authentication/>}/>
 
     </Route>
 
