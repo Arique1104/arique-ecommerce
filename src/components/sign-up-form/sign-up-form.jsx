@@ -2,6 +2,7 @@ import './sign-up-form.styles.scss'
 import { useState } from 'react';
 import { createAuthUserWithEmailAndPassword, createUserDocumentFromAuth } from '../../utils/firebase/firebase.utils';
 import FormInput from '../form-input/form-input';
+import Button from '../button/button';
 
 const defaultFormFields = {
     displayName: '',
@@ -84,7 +85,7 @@ const SignUpForm = () => {
                 name='confirmPassword'
                 value={confirmPassword} />
 
-                <button type='submit'>Sign Up</button>
+                <Button type='submit'>Sign Up</Button>
         </form>
        </div> 
     );
