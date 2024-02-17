@@ -4,6 +4,7 @@ import { ReactComponent as CrwnLogo } from '../../assets/crown.svg'
 import '../nav-bar/nav-bar.styles.scss'
 import {UserContext} from '../../contexts/user.context'
 import { signOutUser } from '../../utils/firebase/firebase.utils'
+
 const NavBar = () => {
     
     const { currentUser } = useContext(UserContext);
