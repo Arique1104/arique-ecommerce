@@ -14,6 +14,12 @@ Feel free to walk through my technical reviews as I iterate over them what I'm l
 
 - `firebase` within the [firebase branch.](https://github.com/Arique1104/arique-ecommerce/pull/4)
 
+- `context-authentication` within the [context-authentication branch.](https://github.com/Arique1104/arique-ecommerce/pull/5)
+
+- `shop page` within the [shop-page branch.](https://github.com/Arique1104/arique-ecommerce/pull/6)
+
+
+
 ## About the Author
 My name is Arique Furia Aguilar pronouns they/them and I am an organizer turned software engineer.
 
