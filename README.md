@@ -25,7 +25,7 @@ When the utility of our product dropped significantly, I was able to identify th
 
 As my final contribution to Spoke, I was able to coordinate efforts towards identifying an new home that would support smaller organizations in their 10DLC Regulation Compliance journey - effectively securing the accessibility of this tool for many campaigns to come. 
 
-I'm interested in staying within Progressive Tech and am currently seeking contracts with research teams looking to protect voters rights and access to the poles.
+I'm interested in staying within Progressive Tech and am currently seeking contracts with research teams looking to protect voters rights and access to the polls.
 
 [Schedule a meeting with me here.](https://calendly.com/mama-furia)
 
