@@ -1,6 +1,6 @@
 # Arique's E-Commerce
 
-Hello and welcome!  I am creating an e-commerce store within Javascript/React and full Authentication with Firebase Databse Storage, sprinkled with some Stripe-Integration, which bought the fin-tech company I worked at for a bit called TaxJar.
+Hello and welcome!  I am creating an e-commerce store within Javascript/React and full Authentication with Firebase Database Storage, sprinkled with some Stripe-Integration, which bought the fin-tech company I worked at for a bit called TaxJar.
 
 As a Backend Ruby Developer, it's amazing to be able to code in Javascript, but I'm still learning a lot!
 
@@ -13,6 +13,14 @@ Feel free to walk through my technical reviews as I iterate over them what I'm l
 - `style-nav-bar-n-logo` within the [style-nav-bar-n-logo branch.](https://github.com/Arique1104/arique-ecommerce/pull/3)
 
 - `firebase` within the [firebase branch.](https://github.com/Arique1104/arique-ecommerce/pull/4)
+
+- `context-authentication` within the [context-authentication branch.](https://github.com/Arique1104/arique-ecommerce/pull/5)
+
+- `shop page` within the [shop-page branch.](https://github.com/Arique1104/arique-ecommerce/pull/6)
+
+- `cart-feature` within the [cart-feature branch](https://github.com/Arique1104/arique-ecommerce/pull/10)
+
+
 
 ## About the Author
 My name is Arique Furia Aguilar pronouns they/them and I am an organizer turned software engineer.
