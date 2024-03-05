@@ -5,12 +5,13 @@ import CartIcon from '../../components/cart-icon/cart-icon'
 import CartDropDown from '../../components/cart-dropdown/cart-dropdown' 
 import '../nav-bar/nav-bar.styles.scss'
 import {UserContext} from '../../contexts/user.context'
+import {CartContext} from '../../contexts/cart.context'
 import { signOutUser } from '../../utils/firebase/firebase.utils'
 
 const NavBar = () => {
     
     const { currentUser } = useContext(UserContext);
-    
+    const { isCartOpen } = useContext(CartContext);
 
     return (
         <Fragment>
@@ -35,7 +36,7 @@ const NavBar = () => {
             <CartIcon></CartIcon>
                           
             </div>
-            <CartDropDown></CartDropDown>
+            {isCartOpen && <CartDropDown/>}
             </div> 
             <Outlet/>
         </Fragment>
