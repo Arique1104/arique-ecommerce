@@ -1,6 +1,6 @@
 # Arique's E-Commerce
 
-Hello and welcome!  I am creating an e-commerce store within Javascript/React and full Authentication with Firebase Databse Storage, sprinkled with some Stripe-Integration, which bought the fin-tech company I worked at for a bit called TaxJar.
+Hello and welcome!  I am creating an e-commerce store within Javascript/React and full Authentication with Firebase Database Storage, sprinkled with some Stripe-Integration, which bought the fin-tech company I worked at for a bit called TaxJar.
 
 As a Backend Ruby Developer, it's amazing to be able to code in Javascript, but I'm still learning a lot!
 
